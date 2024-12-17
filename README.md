@@ -51,6 +51,12 @@ python app.py
 4. Click the "Ask Question" button to receive an answer based on the video's content.
 5. You can clear the chat history by clicking the "Clear Chat" button.
 
+## Output
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/006a82cc-a2b2-4a78-82eb-69c7d459311a" width=700 height=300 alt="animated"/>
+</p>
+
 ## Acknowledgements
 
 This project uses the following libraries:
